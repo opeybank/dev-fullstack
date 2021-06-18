@@ -20,7 +20,7 @@ Diferenciais:
 ## Frontend
 
 * Implementar componente que liste todas as regiões retornadas pela API.
- - Cada região deve conter um evento de click que redireciona para a rota que renderiza o componente abaixo.
+ -- Cada região deve conter um evento de click que redireciona para a rota que renderiza o componente abaixo.
 * Implementar componente que contenha uma simple table vertical com os campos "Região, País, Sigla".
 * Implementar breadcrumbs em todas as páginas.
 
