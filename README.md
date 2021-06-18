@@ -1,6 +1,6 @@
 # Fullstack - Teste Técnico
 
-Após a finalizar a implementação do teste, enviar o link dos repositórios públicos do Github, o currículo e a pretensão salarial para o e-mail "dev@opey.com.br", com o assunto "Vaga Dev Fullstack".
+Após finalizar a implementação do teste, enviar o link dos repositórios públicos do Github, o currículo e a pretensão salarial para o e-mail "dev@opey.com.br", com o assunto "Vaga Dev Fullstack".
 
 ## Backend (RESTful)
 
